@@ -11,4 +11,4 @@ expected points = (1/10)*PPG*randomPoisson(Gamma = 10)
 ![image](https://anomaly.io/wp-content/uploads/2015/06/poisson-formula.png){width=50%}
 
 Results of the simulation
-![image](C:\Users\kaele\OneDrive\Documents\WASHBURN\FALL 2021\MA 342\Project DataSets\NBAOUTPUT)
+![image](C:\Users\kaele\OneDrive\Documents\WASHBURN\FALL 2021\MA 342\Project DataSets\NBAOUTPUT\Standings.png)
