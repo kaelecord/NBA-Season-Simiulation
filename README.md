@@ -8,6 +8,6 @@ In order to predict the outcome of an induvial game I needed a way to predict th
 The resulting distribution was as follows:
 
 expected points = (1/10)*PPG*randomPoisson(Gamma = 10)
-![image]https://anomaly.io/wp-content/uploads/2015/06/poisson-formula.png
+![image](https://anomaly.io/wp-content/uploads/2015/06/poisson-formula.png)
 
 
